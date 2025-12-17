@@ -53,7 +53,7 @@ body {
 .logo h1 {
     font-size: 1.8rem;
     font-weight: bold;
-    color: var(--secondary-color);
+    color: white
 }
 
 .nav-menu {
